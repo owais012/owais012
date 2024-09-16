@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @owais012
+- 👋 Hi, I’m owais
 - 👀 I’m interested in Artificial Intelligence, Machine Learning , Data Science.
 - 🌱 I’m currently learning  DSA AI, ML, Data Science.
   
